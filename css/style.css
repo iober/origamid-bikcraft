@@ -1,20 +1,22 @@
-@import "https://iober.github.io/origamid-bikcraft/css/global/global.css";
-@import "https://iober.github.io/origamid-bikcraft/css/utilidades/tipografia.css";
-@import "https://iober.github.io/origamid-bikcraft/css/utilidades/cores.css";
+@import "./global/global.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
 
-@import "https://iober.github.io/origamid-bikcraft/css/global/header.css";
+@import "./global/header.css";
+@import "./global/footer.css";
 
 /* Utilidades */
-@import "https://iober.github.io/origamid-bikcraft/css/utilidades/componentes.css";
+@import "./utilidades/componentes.css";
 
 /* Home */
-@import "https://iober.github.io/origamid-bikcraft/css/home/introducao.css";
-@import "https://iober.github.io/origamid-bikcraft/css/home/tecnologia.css";
-@import "https://iober.github.io/origamid-bikcraft/css/home/parceiros.css";
-@import "https://iober.github.io/origamid-bikcraft/css/home/depoimento.css";
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
-@import "https://iober.github.io/origamid-bikcraft/css/bicicletas/bicicletas-lista.css";
-@import "https://iober.github.io/origamid-bikcraft/css/seguros/seguros.css";
 
+
+@import "./bicicletas/bicicletas-lista.css";
+@import "./seguros/seguros.css";
 
 
